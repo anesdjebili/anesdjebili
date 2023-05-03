@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anes</h1>
 <h3 align="center">A passionate data scientist from Algeria</h3>
 
-<img align='right' alt='coding' width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align='right' src="https://i.ibb.co/dmdmQH4/giphy.gif" alt='Coding' width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anesdjebili&label=Profile%20views&color=0e75b6&style=flat" alt="anesdjebili" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anesdjebili" target="blank"><img src="https://img.shields.io/twitter/follow/anesdjebili?logo=twitter&style=for-the-badge" alt="anesdjebili" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [anes.github.io](anes.github.io)
+- 👨‍💻 All of my projects are available at [anes.github.io/projects](anes.github.io/projects)
 
 - 📫 How to reach me **anesdjebili123@gmail.com**
 
-- 📄 Know about my experiences [https://](https://)
+- 📄 Know about my experiences [https://anes.github.com/experiences](https://anes.github.io/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
