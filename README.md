@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anesdjebili&label=Profile%20views&color=0e75b6&style=flat" alt="anesdjebili" /> </p>
 
-- 👨‍💻 All of my projects are available at [anes.github.io/projects](anes.github.io/projects)
+- 👨‍💻 All of my projects are available at [anesdjebili.github.io/projects](https://anesdjebili.github.io/projects)
 
 - 📫 How to reach me **anesdjebili123@gmail.com**
 
-- 📄 Know about my experiences [https://anes.github.com/experiences](https://anes.github.io/experiences)
+- 📄 Know about my experiences [https://anesdjebili.github.com/experiences](https://anesdjebili.github.io/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
